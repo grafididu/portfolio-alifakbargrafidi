@@ -14,7 +14,7 @@ const Navbar = () => {
             duration={800}
             className="block py-2 px-3 text-white rounded md:bg-transparent md:p-0 hover:text-[#90D26D] hover:cursor-pointer"
           >
-            <img src="./logodu.png" className="h-10" alt="Logo Alif" />
+            <img src="/logodu.png" className="h-10" alt="Logo Alif" />
           </ScrollLink>
         </a>
         <button

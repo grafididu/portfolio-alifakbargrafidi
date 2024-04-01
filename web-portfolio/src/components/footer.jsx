@@ -6,7 +6,7 @@ const Footer = () => {
             <div className="mx-auto w-full px-4 pt-2 pb-6">
                 <div className="flex justify-center items-center">
                     <div className='text-center'>
-                        <img src="./logodu.png" className="h-9 mx-auto my-4" alt="Logo Alif" />
+                        <img src="/logodu.png" className="h-9 mx-auto my-4" alt="Logo Alif" />
                     </div>
                 </div>
                 <hr className="mt-2 mb-4 border-[#F9F9F9] sm:mx-auto" />

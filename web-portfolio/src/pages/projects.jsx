@@ -22,7 +22,7 @@ function Projects() {
         <section className="w-auto h-auto flex justify-center items-center">
           <div className="grid grid-cols-2 gap-4 items-center bg-[#F9F9F9] px-12 py-4 mb-8 rounded-xl shadow-xl">
             <div className="container">
-              <img src="./src/assets/svg/arko.svg" className="h-[300px] w-[300px] justify-self-end
+              <img src="/arko.svg" className="h-[300px] w-[300px] justify-self-end
               transition ease-in-out delay-100 hover:-translate-y-1 hover:scale-110 duration-200" 
               alt="arko" />
             </div>
@@ -44,7 +44,7 @@ function Projects() {
               </p>
             </div>
             <div className="container">
-              <img src="./src/assets/svg/resqmeal.png" className="h-[300px] w-[300px] ml-[100px] py-8
+              <img src="/resqmeal.png" className="h-[300px] w-[300px] ml-[100px] py-8
                         transition ease-in-out delay-100 hover:-translate-y-1 hover:scale-110 duration-200" 
               alt="resqmeal" />
             </div>
@@ -55,7 +55,7 @@ function Projects() {
           <section className="w-auto h-auto flex justify-center items-center">
           <div className="grid grid-cols-2 gap-4 items-center bg-[#F9F9F9] px-12 py-4 mb-8 rounded-xl shadow-xl">
             <div className="container">
-              <img src="./src/assets/svg/mycuan.svg" className="h-[300px] w-[300px] justify-self-end\
+              <img src="/mycuan.svg" className="h-[300px] w-[300px] justify-self-end\
               transition ease-in-out delay-100 hover:-translate-y-1 hover:scale-110 duration-200"
               alt="mycuan" />
             </div>
@@ -77,7 +77,7 @@ function Projects() {
               </p>
             </div>
             <div className="container">
-              <img src="./src/assets/svg/careercompass.svg" className="h-[300px] w-[300px] ml-[100px]
+              <img src="/careercompass.svg" className="h-[300px] w-[300px] ml-[100px]
               transition ease-in-out delay-100 hover:-translate-y-1 hover:scale-110 duration-200" 
               alt="career compass" />
             </div>

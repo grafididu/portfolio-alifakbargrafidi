@@ -7,7 +7,7 @@ function Dashboard() {
       <div id='about' className="flex w-screen place-content-center pt-[150px] h-1/2 mb-12">
         <div className="w-auto h-auto pr-[50px] ml-[50px]">
           <img
-            src="./src/assets/images/fotodidu2.jpg"
+            src="/fotodidu2.jpg"
             className="h-[500px] w-[500px] blob-mask transition ease-in-out delay-100 hover:-translate-y-1 hover:scale-110 duration-200"
             alt="Logo Alif"
           />

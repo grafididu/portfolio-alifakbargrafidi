@@ -28,7 +28,7 @@ function Skills() {
               <div className="wrapper-kecil flex flex-col items-center w-[132px] h-[148px]  justify-center">
                 <div className="w-[64px] h-[64px] bg-[#F9F9F9] rounded-xl flex justify-center items-center flex-col shadow-md
                 transition ease-in-out hover:delay-50 hover:shadow-lg hover:-translate-y-3 duration-300">
-                  <img src="./src/assets/svg/figma.svg" className="h-[48px] w-[48px] px-1" alt="figma" />
+                  <img src="/figma.svg" className="h-[48px] w-[48px] px-1" alt="figma" />
                 </div>
                 <h4 className="font-bold text-center mt-3 text-[#212121]">Figma</h4>
               </div>
@@ -36,7 +36,7 @@ function Skills() {
               <div className="wrapper-kecil flex flex-col items-center w-[132px] h-[148px]  justify-center">
                 <div className="w-[64px] h-[64px] bg-[#F9F9F9] rounded-xl flex justify-center items-center flex-col shadow-md
                 transition ease-in-out hover:delay-50 hover:shadow-lg hover:-translate-y-3 duration-300">
-                  <img src="./src/assets/svg/ai.svg" className="h-[48px] w-[48px] px-1" alt="Illustrator" />
+                  <img src="/ai.svg" className="h-[48px] w-[48px] px-1" alt="Illustrator" />
                 </div>
                 <h4 className="font-bold text-center mt-3 text-[#212121]">Illustrator</h4>
               </div>
@@ -44,7 +44,7 @@ function Skills() {
               <div className="wrapper-kecil flex flex-col items-center w-[132px] h-[148px]  justify-center">
                 <div className="w-[64px] h-[64px] bg-[#F9F9F9] rounded-xl flex justify-center items-center flex-col shadow-md
                 transition ease-in-out hover:delay-50 hover:shadow-lg hover:-translate-y-3 duration-300">
-                  <img src="./src/assets/svg/ps.svg" className="h-[48px] w-[48px] px-1" alt="photoshop" />
+                  <img src="/ps.svg" className="h-[48px] w-[48px] px-1" alt="photoshop" />
                 </div>
                 <h4 className="font-bold text-center mt-3 text-[#212121]">Photoshop</h4>
               </div>
@@ -52,7 +52,7 @@ function Skills() {
               <div className="wrapper-kecil flex flex-col items-center w-[132px] h-[148px]  justify-center">
                 <div className="w-[64px] h-[64px] bg-[#F9F9F9] rounded-xl flex justify-center items-center flex-col shadow-md
                 transition ease-in-out hover:delay-50 hover:shadow-lg hover:-translate-y-3 duration-300">
-                  <img src="./src/assets/svg/vscode.svg" className="h-[48px] w-[48px] px-1" alt="vscode" />
+                  <img src="/vscode.svg" className="h-[48px] w-[48px] px-1" alt="vscode" />
                 </div>
                 <h4 className="font-bold text-center mt-3 text-[#212121]">VSCode</h4>
               </div>
@@ -60,7 +60,7 @@ function Skills() {
               <div className="wrapper-kecil flex flex-col items-center w-[132px] h-[148px]  justify-center">
                 <div className="w-[64px] h-[64px] bg-[#F9F9F9] rounded-xl flex justify-center items-center flex-col shadow-md
                 transition ease-in-out hover:delay-50 hover:shadow-lg hover:-translate-y-3 duration-300">
-                  <img src="./src/assets/svg/github.svg" className="h-[48px] w-[48px] px-1" alt="github" />
+                  <img src="/github.svg" className="h-[48px] w-[48px] px-1" alt="github" />
                 </div>
                 <h4 className="font-bold text-center mt-3 text-[#212121]">Github</h4>
               </div>
@@ -71,7 +71,7 @@ function Skills() {
               <div className="wrapper-kecil flex flex-col items-center w-[132px] h-[148px]  justify-center">
                 <div className="w-[64px] h-[64px] bg-[#F9F9F9] rounded-xl flex justify-center items-center flex-col shadow-md
                 transition ease-in-out hover:delay-50 hover:shadow-lg hover:-translate-y-3 duration-300">
-                  <img src="./src/assets/svg/html.svg" className="h-[48px] w-[48px] px-1" alt="html" />
+                  <img src="/html.svg" className="h-[48px] w-[48px] px-1" alt="html" />
                 </div>
                 <h4 className="font-bold text-center mt-3 text-[#212121]">HTML</h4>
               </div>
@@ -79,7 +79,7 @@ function Skills() {
               <div className="wrapper-kecil flex flex-col items-center w-[132px] h-[148px]  justify-center">
                 <div className="w-[64px] h-[64px] bg-[#F9F9F9] rounded-xl flex justify-center items-center flex-col shadow-md
                 transition ease-in-out hover:delay-50 hover:shadow-lg hover:-translate-y-3 duration-300">
-                  <img src="./src/assets/svg/css.svg" className="h-[48px] w-[48px] px-1" alt="css" />
+                  <img src="/css.svg" className="h-[48px] w-[48px] px-1" alt="css" />
                 </div>
                 <h4 className="font-bold text-center mt-3 text-[#212121]">CSS</h4>
               </div>
@@ -87,7 +87,7 @@ function Skills() {
               <div className="wrapper-kecil flex flex-col items-center w-[132px] h-[148px]  justify-center">
                 <div className="w-[64px] h-[64px] bg-[#F9F9F9] rounded-xl flex justify-center items-center flex-col shadow-md
                 transition ease-in-out hover:delay-50 hover:shadow-lg hover:-translate-y-3 duration-300">
-                  <img src="./src/assets/svg/js.svg" className="h-[48px] w-[48px] px-1" alt="js" />
+                  <img src="/js.svg" className="h-[48px] w-[48px] px-1" alt="js" />
                 </div>
                 <h4 className="font-bold text-center mt-3 text-[#212121]">Javascript</h4>
               </div>
@@ -95,7 +95,7 @@ function Skills() {
               <div className="wrapper-kecil flex flex-col items-center w-[132px] h-[148px]  justify-center">
                 <div className="w-[64px] h-[64px] bg-[#F9F9F9] rounded-xl flex justify-center items-center flex-col shadow-md
                 transition ease-in-out hover:delay-50 hover:shadow-lg hover:-translate-y-3 duration-300">
-                  <img src="./src/assets/svg/react.svg" className="h-[48px] w-[48px] px-1" alt="react" />
+                  <img src="/react.svg" className="h-[48px] w-[48px] px-1" alt="react" />
                 </div>
                 <h4 className="font-bold text-center mt-3 text-[#212121]">React JS</h4>
               </div>
@@ -103,7 +103,7 @@ function Skills() {
               <div className="wrapper-kecil flex flex-col items-center w-[132px] h-[148px]  justify-center">
                 <div className="w-[64px] h-[64px] bg-[#F9F9F9] rounded-xl flex justify-center items-center flex-col shadow-md
                 transition ease-in-out hover:delay-50 hover:shadow-lg hover:-translate-y-3 duration-300">
-                  <img src="./src/assets/svg/tailwind.svg" className="h-[48px] w-[48px] px-1" alt="html" />
+                  <img src="/tailwind.svg" className="h-[48px] w-[48px] px-1" alt="html" />
                 </div>
                 <h4 className="font-bold text-center mt-3 text-[#212121]">Tailwind CSS</h4>
               </div>

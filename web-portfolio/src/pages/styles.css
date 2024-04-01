@@ -1,0 +1,5 @@
+.blob-mask {
+    -webkit-mask: url('./src/assets/images/blob.svg') center/contain no-repeat;
+            mask: url('./src/assets/images/blob.svg') center/contain no-repeat;
+  }
+  
